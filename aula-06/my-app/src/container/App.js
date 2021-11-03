@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import './styles/App.css';
 import ClassComponent from './components/ClassComponent';
 
