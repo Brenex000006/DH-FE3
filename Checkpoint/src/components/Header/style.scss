@@ -1,9 +1,9 @@
 header {
   .navbar-brand {
-    font-size: 30px;
+    font-size: 35px;
 
     &::first-letter {
-      color: red;
+      color: rgb(0, 242, 255);
     }
   }
   li a {
@@ -12,10 +12,13 @@ header {
     border-radius: 9px;
     font-weight: bold;
     transition: all 0.3s ease-in-out;
+    font-size: 30px;
 
     &:hover {
-      background: red;
+      background: rgb(55, 118, 121);
       color: black !important;
+      border-radius: 50px;
+      animation-duration: 0.1ms;
     }
   }
 }
