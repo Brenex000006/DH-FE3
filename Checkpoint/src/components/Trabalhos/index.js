@@ -15,18 +15,18 @@ const Trabalhos = () => {
     {
       id: 2,
       imageUrl:
-        "https://www.windowsclub.com.br/wp-content/uploads/2019/11/ea-access-1.jpg",
-      nome: "Arroz",
-      descricao: "oi",
-      gitHub: "oq",
+        "https://i.stack.imgur.com/8CiwC.jpg",
+      nome: "Projeto Checkpoint de FrontEnd - 2 Cards",
+      descricao: "Não Existe um Site",
+      gitHub: "https://github.com/Brenex000006/Checkpoint2---Front2/tree/main/Frontend2Checkpoint2/Checkpoint2%20-%20Cards",
     },
     {
       id: 3,
       imageUrl:
-        "https://www.windowsclub.com.br/wp-content/uploads/2019/11/ea-access-1.jpg",
-      nome: "Leite",
-      descricao: "Link do Projeto",
-      gitHub: "oq",
+        "https://petsistemas.ufms.br/wp-content/uploads/2015/03/json-arquivos-00.png",
+      nome: "Projeto Checkpoint de FrontEnd - 2 Json",
+      descricao: "Não Existe um Site",
+      gitHub: "https://github.com/Brenex000006/Checkpoint2---Front2/tree/main/Frontend2Checkpoint2/Checkpoint2%20-%20Json",
     },
   ];
   return (

@@ -9,6 +9,12 @@
     align-items: center;
 }
 
+.imagem{
+    max-width: 200px;
+    min-width: 100px;
+    border-radius: 20px;
+}
+
 .tituloCards {
     background-image: url("https://hdwallpaperim.com/wp-content/uploads/2017/09/16/55159-Mount_Fuji-Japan-Milky_Way.jpg");
     background-size: cover;
@@ -22,3 +28,4 @@
     font-weight: bold;
     width: 100%;
   }
+
